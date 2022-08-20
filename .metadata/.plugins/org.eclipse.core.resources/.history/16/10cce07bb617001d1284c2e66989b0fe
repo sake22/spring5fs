@@ -1,0 +1,13 @@
+package config;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class DsConfigWithProp {
+	@Value("${db.driver}")
+	private String driver;
+	@Value("${db.url}")
+	private String jdbcUrl;
+	
+}

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-wrapper24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../spring5fs-master/sp5-chap121-gl/gradle/wrapper/gradle-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

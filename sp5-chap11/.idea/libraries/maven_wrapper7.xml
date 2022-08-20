@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-wrapper7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../spring5fs-master/sp5-chapc/.mvn/wrapper/maven-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

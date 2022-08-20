@@ -1,0 +1,11 @@
+spring\Member.class
+main\MainForSpring.class
+spring\ChangePasswordService.class
+spring\MemberDao.class
+spring\MemberNotFoundException.class
+spring\MemberRegisterService.class
+assembler\Assembler.class
+spring\RegisterRequest.class
+spring\WrongIdPasswordException.class
+config\AppCtx.class
+spring\DuplicateMemberException.class
